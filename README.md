@@ -1,7 +1,24 @@
 # Goldman Sachs Risk Virtual Experience
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Goldman%20Sachs%20Risk-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 **Program:** Risk Management Simulation for Operations & Credit Analyst Roles  
 **Focus:** Identifying, categorizing, and mitigating risks in daily life and financial contexts — core to Goldman Sachs' risk culture.
+
+---
+
+## 📋 Table of Contents
+
+- [Task 1: Managing Risk in Your Daily Life](#task-1-managing-risk-in-your-daily-life)
+- [Task 2: Individual Credit Risk Assessment](#task-2-individual-credit-risk-assessment)
+- [Work Results Summary](#work-results-summary)
+  - [Task 1 — Daily Life Risks](#task-1--daily-life-risks-identified--categorized)
+  - [Task 2 — Credit Risk Assessment](#task-2--credit-risk-assessment-results)
+- [Repository Structure](#repository-structure)
 
 ---
 
